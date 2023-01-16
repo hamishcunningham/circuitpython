@@ -1,3 +1,5 @@
+# mpconfigboard.mk
+
 USB_VID = 0x16D0
 USB_PID = 0x1178
 USB_PRODUCT = "unPhone"
