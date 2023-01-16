@@ -13,3 +13,6 @@ CIRCUITPY_ESP_FLASH_SIZE = 8MB
 
 #OPTIMIZATION_FLAGS = -Os
 CIRCUITPY_ESP32_CAMERA = 0
+
+# include these Python libraries in firmware:
+# FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_ ...TODO
